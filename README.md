@@ -21,7 +21,7 @@ This project analyzes an online retail dataset to uncover insights related to re
 - The United Kingdom contributed the highest revenue.
 - Forecasting suggested continued sales activity.
 
-## Screenshots
+## Screenshots of the project 
 
 ### Executive Dashboard
 ![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
